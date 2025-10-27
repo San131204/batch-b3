@@ -1,3 +1,3 @@
 # batch-b3
-Author - sahil nivalkar<br>
+Author - sahil ramdas nivalkar<br>
 Roll no. - 52<br>
